@@ -10,11 +10,17 @@ To create a transparent, accountable donation system that builds trust between d
 
 ## Key Features
 
-- Register and remove charities by the contract owner.
-- Donors can donate Ether directly to a registered charity.
-- Real-time tracking of total donations per charity.
-- Immediate fund transfer to the charity's address.
-- Events emitted for donations, additions, and removals.
+Charity Management: Only the contract owner can add or remove charities.
+
+Direct Donations: Donors can send Ether directly to any verified charity.
+
+Transparent Records: Every donation is logged with donor, amount, and timestamp.
+
+Instant Transfer: Donated funds are instantly sent to the charity’s wallet.
+
+Event Logging: Emits events for donations, charity additions, and removals.
+
+Cumulative Totals: Tracks and displays total donations per charity.
 
 ## Future Scope
 
