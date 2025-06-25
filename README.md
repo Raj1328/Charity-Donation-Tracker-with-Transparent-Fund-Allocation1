@@ -1,4 +1,4 @@
-# Charity Donation Tracker with Transparent Fund Allocation
+# Charity Donation Tracker with Transparent Fund Allocations
 
 # Project Description
 
