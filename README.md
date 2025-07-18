@@ -2,7 +2,7 @@
 
 # Project Description
 
-This smart contract allows donors to contribute funds to registered charities with full transparency. Each donation is tracked on-chain, and funds are immediately forwarded to the intended charity's address. The contract owner manages the list of valid charities.
+This smart contract allows donors to contribute funds to registered charities with full the transparency. Each donation is tracked on-chain, and funds are immediately forwarded to the intended charity's address. The contract owner manages the list of valid charities.
 
 ## Project Vision
 
