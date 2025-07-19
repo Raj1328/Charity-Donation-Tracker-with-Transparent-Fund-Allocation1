@@ -25,7 +25,7 @@ Cumulative Totals: Tracks and displays total donations per charity.
 ## Future Scope
 
 - Add support for ERC20 token donations.
-- Implement multi-signature approval for charity additions.
+- Implement multi-signature approval for charity additions .
 - Enable periodic audits and reports on donations.
 - Build a front-end dashboard showing real-time donation stats.
 - Integrate with identity verification to prevent fraud.
