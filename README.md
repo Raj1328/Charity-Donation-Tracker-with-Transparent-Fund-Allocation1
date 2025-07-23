@@ -8,7 +8,7 @@ This smart contract allows donors to contribute funds to registered charities wi
 
 To create a transparent, accountable donation system that builds trust between donors and charities by ensuring all funds are traceable and reach the designated organizations promptly.
 
-## Key Features
+## Key Feature
 
 Charity Management: Only the contract owner can add or remove charities.
 
