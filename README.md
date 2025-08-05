@@ -4,7 +4,7 @@
 
 This smart contract allows donors to contribute funds to registered charities with full the transparency. Each donation is tracked on-chain, and funds are immediately forwarded to the intended charity's address. The contract owner manages the list of valid charities.
 
-## Project Visions
+## Project Vision
 
 To create a transparent, accountable donation system that builds trust between donors and charities by ensuring all funds are traceable and reach the designated organizations promptly.
 
