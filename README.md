@@ -22,7 +22,7 @@ Event Logging: Emits events for donations, charity additions, and removals.
 
 Cumulative Totals: Tracks and displays total donations per charity.
 
-## Future Scopes
+## Future Scope
 
 - Add support for ERC20 token donations.
 - Implement multi-signature approval for charity additions .
